@@ -1,0 +1,4 @@
+name: MVTest
+version: '${version}'
+main: sanswee.mvtest.MVTest
+api-version: '1.21'
